@@ -84,7 +84,7 @@ A unified **digital healthcare ecosystem** that empowers every stakeholder:
 
 ## 🌐 Live Deployment  
 
-- 🔗 **Frontend (User Portal):** [https://vaidyatek-frontend.onrender.com/](https://vaidyatek-frontend.onrender.com/)  
+- 🔗 **User Portal:** [https://vaidyatek.shop/](https://vaidyatek.shop/)
 - 🔒 *Admin & Doctor Panel credentials are kept private for security reasons.*
 
 ---
